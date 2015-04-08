@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for DC Intro Course
+Repo for DS Intro Course
